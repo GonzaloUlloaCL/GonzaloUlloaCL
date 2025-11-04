@@ -52,7 +52,7 @@ Actualmente desarrollando portafolio de proyectos en:
 
 ## Contacto
 
-📧 gonzalo.nug@gmail.com
+📧 gonzalo.ulloa@usach.cl
 
 💼 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Gonzalo_Ulloa-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gonzalo-ulloa-g/)
 
