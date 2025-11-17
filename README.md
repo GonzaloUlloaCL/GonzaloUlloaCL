@@ -57,7 +57,7 @@ Transformo datos operacionales en decisiones estratégicas mediante análisis ex
 
 ## 📫 Contacto
 
-📧 gonzalo.ulloa@usach.cl 
+📧 gonzalo.ulloa@usach.cl  
 💼 [LinkedIn](https://www.linkedin.com/in/gonzalo-ulloa-g/)  
 📍 Santiago, Chile  
 🌐 Disponible para proyectos freelance (remoto/híbrido)
