@@ -1,63 +1,75 @@
 # Gonzalo Ulloa González
 
-## Analista de Datos | Python • SQL • MongoDB
+## Ingeniero Industrial | Analista de Datos | Python • SQL • Power BI
 
-Ingeniero Industrial con más de 7 años de experiencia en Supply Chain y operaciones. Especializado en transformar datos en decisiones estratégicas mediante análisis exploratorio, automatización de procesos y optimización logística.
+Transformo datos operacionales en decisiones estratégicas mediante análisis exploratorio, ETL, y dashboards interactivos.
 
-Actualmente enfocado en proyectos de análisis de datos, ETL y visualización con Python, SQL y MongoDB.
+**7+ años** en Supply Chain aplicados al análisis cuantitativo para resolver problemas de negocio.
 
 ---
 
-## Áreas de Especialización
+## 🚀 Proyectos Destacados
 
-**Análisis de Datos**
-- Análisis exploratorio y limpieza de datos
-- Procesos ETL (extracción, transformación y carga)
-- Automatización de reportes y dashboards
+### [📊 Dashboard de Supply Chain con Análisis de Causa Raíz](https://github.com/GonzaloUlloaCL/analisis-datos-python-portafolio/tree/main/proyecto-01-dashboard-logistico)
 
-**Tecnologías**
-- Python (Pandas, NumPy, Matplotlib, Seaborn)
+**El Desafío:** OTIF crítico del 2% (98% de entregas incompletas)
+
+**El Hallazgo:** Stock solo cubría 21.7% de la demanda mediante análisis con Python
+
+**La Solución:** Plan estructurado para mejorar de 2% a 95% OTIF en 90 días
+
+**Stack:** Python | Pandas | MySQL | Plotly Dash | Jupyter
+
+**Técnicas:** ETL automatizado • Análisis de Pareto • Dashboard interactivo
+
+[Ver Proyecto Completo →](https://github.com/GonzaloUlloaCL/analisis-datos-python-portafolio/tree/main/proyecto-01-dashboard-logistico)
+
+---
+
+## 🛠️ Stack Técnico
+
+**Lenguajes y Herramientas:**
+- Python (Pandas, NumPy, Matplotlib, Seaborn, Plotly)
 - SQL (MySQL, PostgreSQL)
-- MongoDB
 - Power BI
 - Excel Avanzado
-- SAP
+- Git/GitHub
 
-**Experiencia Profesional**
-- Optimización de procesos logísticos y operacionales
-- Gestión de supply chain end-to-end
-- Análisis de datos para toma de decisiones estratégicas
-- Mejora continua (Lean/Kaizen)
-
----
-
-## Proyectos Destacados
-
-Actualmente desarrollando portafolio de proyectos en:
-- Análisis exploratorio de datos con visualizaciones
-- Pipelines ETL automatizados
-- Dashboards y reportes desde bases de datos
+**Especialidades:**
+- Análisis Exploratorio de Datos (EDA)
+- ETL (Extracción, Transformación, Carga)
+- Visualización de Datos
+- KPIs de Supply Chain
+- Optimización de Procesos
 
 ---
 
-## Formación
+## 💼 Experiencia
 
-**Ingeniería Industrial** — Universidad de Santiago de Chile (2014)
+**+7 años** en Supply Chain, operaciones y mejora continua:
+- ✅ Reducción de quiebres de inventario en 70%
+- ✅ Aumento de facturación anual en 19%
+- ✅ Optimización de margen operativo en 5.96%
 
-**Diplomado en Gestión Logística** — Universidad de Santiago de Chile (2017)
+**Transición a Análisis de Datos:** Aplicando experiencia operacional + análisis cuantitativo
 
+---
+
+## 📫 Contacto
+
+📧 gonzalo.nug@gmail.com  
+💼 [LinkedIn](https://www.linkedin.com/in/gonzalo-ulloa-g/)  
+📍 Santiago, Chile  
+🌐 Disponible para proyectos freelance (remoto/híbrido)
+
+---
+
+## 📚 Formación
+
+**Ingeniería Industrial** — Universidad de Santiago de Chile (2014)  
+**Diplomado en Gestión Logística** — Universidad de Santiago de Chile (2017)  
 **Python y Bases de Datos** — Clase Ejecutiva UC (2025)
 
 ---
 
-## Contacto
-
-📧 gonzalo.ulloa@usach.cl
-
-💼 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Gonzalo_Ulloa-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gonzalo-ulloa-g/)
-
-📍 Santiago, Chile
-
----
-
-Disponible para proyectos freelance en análisis de datos y automatización de procesos.
+*"Los datos no mienten. Pero hay que saber hacerles las preguntas correctas."*
