@@ -2,10 +2,10 @@
 
 # 👋 Hola, soy Gonzalo Ulloa
 
-### Ingeniero Industrial | Python Developer | Automatización con IA
+### Analista de Procesos / Business Analyst | Automatización con IA
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-gonzalo--ulloa--g-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/gonzalo-ulloa-g/)
-[![Email](https://img.shields.io/badge/Email-gonzalo.ulloa%40usach.cl-red?style=flat-square&logo=gmail)](mailto:gonzalo.ulloa@usach.cl)
+[![Email](https://img.shields.io/badge/Email-gonzalo.nug%40gmail.com-red?style=flat-square&logo=gmail)](mailto:gonzalo.nug@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-GonzaloUlloaCL-black?style=flat-square&logo=github)](https://github.com/GonzaloUlloaCL)
 
 </div>
@@ -14,18 +14,18 @@
 
 ## 🚀 Sobre Mí
 
-Ingeniero Industrial (USACH 2014) con **7+ años de experiencia en Supply Chain y Operaciones**, actualmente especializándome en **desarrollo Python y automatización con IA**. Combino conocimiento profundo de procesos operativos con habilidades técnicas para construir soluciones que reducen trabajo manual y mejoran eficiencia.
+Ingeniero Industrial (USACH, 2014) con **más de 10 años levantando procesos reales** en operaciones y supply chain, y convirtiéndolos en sistemas que funcionan. Trabajo la bisagra entre negocio y tecnología: traduzco lo que el área necesita en reglas, indicadores y automatizaciones, y decido qué conviene automatizar y qué no. Uso modelos de lenguaje en procesos productivos reales con una regla propia: la IA interpreta y propone, pero lo crítico lo resuelve código determinístico y auditable.
 
-Actualmente en **SCM - Grupo CIMA** (Agrosystems) y construyendo portafolio para transición a **desarrollo freelance especializado en automatización operacional**.
+**En búsqueda activa de un rol como Analista de Procesos / Business Analyst** (remoto o híbrido). En paralelo, diseño y dirijo la construcción de proyectos propios de automatización con IA — los de abajo son ejemplos reales, no demos de portafolio.
 
 ```python
 class Gonzalo:
     def __init__(self):
-        self.background = "Ingeniero Industrial + Supply Chain (7+ años)"
-        self.current_role = "Analista Operaciones @ SCM Corp"
-        self.transition = "Python Developer → Automatización con IA"
-        self.goal = "Primeros clientes freelance Q1 2025"
-    
+        self.background = "Ingeniero Industrial + Procesos, Operaciones y Supply Chain (10+ años)"
+        self.status = "En búsqueda activa: Analista de Procesos / Business Analyst"
+        self.diferencial = "Automatización con IA en producción real, no solo en el CV"
+        self.regla = "La IA interpreta y propone; lo crítico lo resuelve código determinístico y auditable"
+
     def tech_stack(self):
         return {
             "languages": ["Python 3.13", "SQL", "JavaScript"],
@@ -54,7 +54,7 @@ class Gonzalo:
 
 ### 🤖 [Sistema de Automatización con IA](https://github.com/GonzaloUlloaCL/bot-cobertores-workflow)
 
-**Demo técnico** basado en procesos operativos reales del sector agroindustrial.
+**Demo técnico** basado en procesos operativos reales del sector agroindustrial. Lo diseñé y dirigí su construcción con IA.
 
 Sistema inteligente que procesa emails operacionales con **aprendizaje automático de patrones**.
 
@@ -96,23 +96,25 @@ Portafolio de proyectos de análisis y visualización de datos.
 
 ## 🏆 Experiencia Profesional Relevante
 
-**SCM Corp (Grupo CIMA) - Analista de Operaciones**  
-*Mayo 2024 - Actualidad*
-- Gestión integral SAP + Excel automatizado
-- Reducción 15% gastos logísticos por optimización de procesos
-- Diseño de modelo tarifario basado en rentabilidad
+**Agrosystems SA - Business Performance Data Analyst**  
+*Mayo 2025 - Agosto 2026*
+- Liderazgo del ecosistema AppSheet: 3 apps operacionales integradas que digitalizan el ciclo completo
+- Reconciliación de ERP vs. físico y corrección de datos maestros (SKUs)
+- Política de tipo de cambio USD/EUR → CLP implementada en órdenes de compra de SAP
+- Irregularidad detectada en el modelo de cobro de transporte que llevaba años sobrefacturando la operación; instauré el control que la cerró
+- Dashboards Power BI de performance operacional y supply chain sobre SAP Business One (HANA)
 
-**Cencosud / Rocktruck - Encargado Logístico + Monitoreo Flota**  
-*Abril 2024 - Enero 2025*
-- Supervisión operativa + herramientas control en Excel
+**Rocktruck / SPID (Cencosud) - Control Logístico Última Milla**  
+*Julio 2024 - Enero 2025*
+- Encargado logístico en darkstore Cencosud (SPID) y monitoreo remoto de flota (RockTruck)
 - Optimización de rutas y asignación de recursos
 
-**Agrosystems - Ing. Mejora Continua + Analista Operaciones**  
+**Agrosystems SA - Ing. Mejora Continua + Analista de Operaciones**  
 *2014 - 2019 (5 años)*
-- ✅ Reducción 70% quiebres inventario
-- ✅ Aumento 19% facturación anual
-- ✅ Automatización abastecimiento/despacho
-- ✅ Implementación metodología costeo productivo
+- ✅ -70% en quiebres de stock en productos de mayor rotación (análisis ABC, reposición Kanban, alertas tempranas)
+- ✅ Período cerrado con +19% en ingresos y +5,96% en margen para la compañía
+- ✅ Automatización de abastecimiento y despacho
+- ✅ Implementación de metodología de costeo productivo
 
 ---
 
@@ -123,7 +125,7 @@ Portafolio de proyectos de análisis y visualización de datos.
 - 📜 **Diplomado en Gestión Logística** - USACH (2017)
 
 **Certificaciones Técnicas:**
-- 🐍 **Python y Bases de Datos** - Clase Ejecutiva UC (2025)  
+- 🐍 **Python y Bases de Datos** - Clase Ejecutiva UC — completado (2025)  
   *Nota: 6.8/7.0 | ETL, SQL, MySQL, PostgreSQL, MongoDB*
   
 - 📊 **Lean/Kaizen** - Lean Institute (2018)  
@@ -179,24 +181,20 @@ Portafolio de proyectos de análisis y visualización de datos.
 
 ---
 
-## 🎯 Objetivos 2025
+## 🎯 Ahora mismo
 
-- [x] Completar especialización Python + Bases de Datos (UC)
-- [x] Desarrollar proyecto de automatización con IA
-- [x] Implementar sistema de aprendizaje automático (Fase 0)
-- [ ] Conseguir primeros clientes freelance ($2,000-4,000 USD)
-- [ ] Publicar 3 casos de estudio documentados
-- [ ] Deploy de proyecto en AWS/GCP
-- [ ] Contribuir a proyectos open source
+- En búsqueda activa de un rol como **Analista de Procesos / Business Analyst** (remoto o híbrido)
+- Manteniendo y ampliando los proyectos de automatización de este perfil
+- Aprendiendo AWS/GCP en paralelo
 
 ---
 
-## 💼 Servicios Freelance
+## 💼 En paralelo: automatización para PyMEs
 
-Desarrollo de **soluciones de automatización para PyMEs** que combinan:
+Además de la búsqueda de rol, desarrollo **soluciones de automatización para PyMEs** que combinan:
 
-✅ **Experiencia operativa real** (7+ años en Supply Chain)  
-✅ **Desarrollo técnico** (Python, IA, bases de datos)  
+✅ **Experiencia operativa real** (10+ años en procesos, operaciones y supply chain)  
+✅ **Automatización con IA** en producción real, no solo en demos  
 ✅ **Comprensión de negocio** (ROI, procesos, KPIs)
 
 ### Servicios:
@@ -217,10 +215,10 @@ Desarrollo de **soluciones de automatización para PyMEs** que combinan:
 
 ## 📫 Contacto
 
-¿Tienes un proyecto de automatización operacional? ¡Hablemos!
+¿Buscas un Analista de Procesos / BA, o tienes un proyecto de automatización operacional? ¡Hablemos!
 
 - 💼 **LinkedIn:** [gonzalo-ulloa-g](https://www.linkedin.com/in/gonzalo-ulloa-g/)
-- 📧 **Email:** gonzalo.ulloa@usach.cl | gonzalo.nug@gmail.com
+- 📧 **Email:** gonzalo.nug@gmail.com
 - 🐙 **GitHub:** [@GonzaloUlloaCL](https://github.com/GonzaloUlloaCL)
 - 📍 **Ubicación:** Santiago, Chile
 - 🌐 **Modalidad:** Remoto / Híbrido
